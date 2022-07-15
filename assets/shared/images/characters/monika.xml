@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monika.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MonikaDown0000" x="0" y="0" width="456" height="647" frameX="-14" frameY="-16" frameWidth="487" frameHeight="663"/>
+	<SubTexture name="MonikaDown0001" x="0" y="0" width="456" height="647" frameX="-14" frameY="-16" frameWidth="487" frameHeight="663"/>
+	<SubTexture name="MonikaDown0002" x="456" y="0" width="477" height="661" frameX="-6" frameY="-2" frameWidth="487" frameHeight="663"/>
+	<SubTexture name="MonikaDown0003" x="456" y="0" width="477" height="661" frameX="-6" frameY="-2" frameWidth="487" frameHeight="663"/>
+	<SubTexture name="MonikaDown0004" x="933" y="0" width="487" height="663"/>
+	<SubTexture name="MonikaDown0005" x="933" y="0" width="487" height="663"/>
+	<SubTexture name="MonikaHey0000" x="1420" y="0" width="476" height="705" frameX="-1" frameY="-12" frameWidth="489" frameHeight="717"/>
+	<SubTexture name="MonikaHey0001" x="1420" y="0" width="476" height="705" frameX="-1" frameY="-12" frameWidth="489" frameHeight="717"/>
+	<SubTexture name="MonikaHey0002" x="1896" y="0" width="479" height="709" frameX="-1" frameY="-8" frameWidth="489" frameHeight="717"/>
+	<SubTexture name="MonikaHey0003" x="1896" y="0" width="479" height="709" frameX="-1" frameY="-8" frameWidth="489" frameHeight="717"/>
+	<SubTexture name="MonikaHey0004" x="2375" y="0" width="489" height="717"/>
+	<SubTexture name="MonikaHey0005" x="2375" y="0" width="489" height="717"/>
+	<SubTexture name="MonikaIdle0000" x="2864" y="0" width="513" height="700" frameX="-3" frameY="-15" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="MonikaIdle0001" x="2864" y="0" width="513" height="700" frameX="-3" frameY="-15" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="MonikaIdle0002" x="3377" y="0" width="513" height="705" frameX="-5" frameY="-11" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="MonikaIdle0003" x="3377" y="0" width="513" height="705" frameX="-5" frameY="-11" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="MonikaIdle0004" x="3377" y="0" width="513" height="705" frameX="-5" frameY="-11" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="MonikaIdle0005" x="0" y="717" width="513" height="701" frameX="-4" frameY="-14" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="MonikaIdle0006" x="0" y="717" width="513" height="701" frameX="-4" frameY="-14" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="MonikaIdle0007" x="513" y="717" width="524" height="707" frameX="-2" frameY="-9" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="MonikaIdle0008" x="513" y="717" width="524" height="707" frameX="-2" frameY="-9" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="MonikaIdle0009" x="513" y="717" width="524" height="707" frameX="-2" frameY="-9" frameWidth="544" frameHeight="716"/>
+	<SubTexture name="MonikaIdle0010" x="1037" y="717" width="544" height="716"/>
+	<SubTexture name="MonikaIdle0011" x="1037" y="717" width="544" height="716"/>
+	<SubTexture name="MonikaIdle0012" x="1037" y="717" width="544" height="716"/>
+	<SubTexture name="MonikaIdle0013" x="1037" y="717" width="544" height="716"/>
+	<SubTexture name="MonikaIdle0014" x="1037" y="717" width="544" height="716"/>
+	<SubTexture name="MonikaIdle0015" x="1037" y="717" width="544" height="716"/>
+	<SubTexture name="MonikaIdle0016" x="1037" y="717" width="544" height="716"/>
+	<SubTexture name="MonikaIdle0017" x="1037" y="717" width="544" height="716"/>
+	<SubTexture name="MonikaIdle0018" x="1037" y="717" width="544" height="716"/>
+	<SubTexture name="MonikaIdle0019" x="1037" y="717" width="544" height="716"/>
+	<SubTexture name="MonikaLeft0000" x="1581" y="717" width="402" height="708"/>
+	<SubTexture name="MonikaLeft0001" x="1581" y="717" width="402" height="708"/>
+	<SubTexture name="MonikaLeft0002" x="1983" y="717" width="375" height="702" frameX="-10" frameY="-6" frameWidth="402" frameHeight="708"/>
+	<SubTexture name="MonikaLeft0003" x="1983" y="717" width="375" height="702" frameX="-10" frameY="-6" frameWidth="402" frameHeight="708"/>
+	<SubTexture name="MonikaLeft0004" x="2358" y="717" width="374" height="698" frameX="-11" frameY="-10" frameWidth="402" frameHeight="708"/>
+	<SubTexture name="MonikaLeft0005" x="2358" y="717" width="374" height="698" frameX="-11" frameY="-10" frameWidth="402" frameHeight="708"/>
+	<SubTexture name="MonikaRight0000" x="2732" y="717" width="488" height="703" frameX="-1" frameY="0" frameWidth="489" frameHeight="703"/>
+	<SubTexture name="MonikaRight0001" x="2732" y="717" width="488" height="703" frameX="-1" frameY="0" frameWidth="489" frameHeight="703"/>
+	<SubTexture name="MonikaRight0002" x="3220" y="717" width="475" height="699" frameX="0" frameY="-4" frameWidth="489" frameHeight="703"/>
+	<SubTexture name="MonikaRight0003" x="3220" y="717" width="475" height="699" frameX="0" frameY="-4" frameWidth="489" frameHeight="703"/>
+	<SubTexture name="MonikaRight0004" x="0" y="1433" width="468" height="693" frameX="0" frameY="-10" frameWidth="489" frameHeight="703"/>
+	<SubTexture name="MonikaRight0005" x="0" y="1433" width="468" height="693" frameX="0" frameY="-10" frameWidth="489" frameHeight="703"/>
+	<SubTexture name="MonikaUp0000" x="468" y="1433" width="527" height="737" frameX="0" frameY="0" frameWidth="528" frameHeight="737"/>
+	<SubTexture name="MonikaUp0001" x="468" y="1433" width="527" height="737" frameX="0" frameY="0" frameWidth="528" frameHeight="737"/>
+	<SubTexture name="MonikaUp0002" x="995" y="1433" width="528" height="733" frameX="0" frameY="-4" frameWidth="528" frameHeight="737"/>
+	<SubTexture name="MonikaUp0003" x="995" y="1433" width="528" height="733" frameX="0" frameY="-4" frameWidth="528" frameHeight="737"/>
+	<SubTexture name="MonikaUp0004" x="1523" y="1433" width="519" height="729" frameX="-6" frameY="-8" frameWidth="528" frameHeight="737"/>
+	<SubTexture name="MonikaUp0005" x="1523" y="1433" width="519" height="729" frameX="-6" frameY="-8" frameWidth="528" frameHeight="737"/>
+</TextureAtlas>
